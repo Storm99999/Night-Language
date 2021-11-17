@@ -1,0 +1,15 @@
+D:\ue4\yay\NightLang\bin\Debug\net6.0\NightLang.exe
+D:\ue4\yay\NightLang\bin\Debug\net6.0\NightLang.deps.json
+D:\ue4\yay\NightLang\bin\Debug\net6.0\NightLang.runtimeconfig.json
+D:\ue4\yay\NightLang\bin\Debug\net6.0\NightLang.dll
+D:\ue4\yay\NightLang\bin\Debug\net6.0\ref\NightLang.dll
+D:\ue4\yay\NightLang\bin\Debug\net6.0\NightLang.pdb
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.csproj.AssemblyReference.cache
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.GeneratedMSBuildEditorConfig.editorconfig
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.AssemblyInfoInputs.cache
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.AssemblyInfo.cs
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.csproj.CoreCompileInputs.cache
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.dll
+D:\ue4\yay\NightLang\obj\Debug\net6.0\ref\NightLang.dll
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.pdb
+D:\ue4\yay\NightLang\obj\Debug\net6.0\NightLang.genruntimeconfig.cache
